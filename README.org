@@ -1,0 +1,9 @@
+* jpl-util
+
+cl-jpl-util is a collection of Common Lisp utility functions and macros.
+
+|---------+----------------------------------------------------------------------------|
+| source  | file:http://www.thoughtcrime.us/software/jpl-queues/cl-jpl-util-0.4.tar.gz |
+| version | 0.4                                                                        |
+| systems | jpl-util                                                                   |
+|---------+----------------------------------------------------------------------------|
